@@ -64,6 +64,8 @@ textarea {
 #wrapper {
 	background-color: #69cf69;
 	padding: 20px;
+	max-width: 1000px;
+	margin: 0 auto;
 }
 
 #inner {
@@ -77,13 +79,15 @@ textarea {
 }
 
 .content {
-	background-color: #e1e1e1;
+	background-color: #ebebeb;
 	margin: 16px;
-	padding: 13px;
+	padding: 30px;
+	border-radius: 5px;
 }
 
 .heading {
 	font-size: 17px;
+	min-height: 30px;
 }
 
 .para {
@@ -94,4 +98,16 @@ textarea {
 
 .links {
 	color: #4e4ec5;
+	cursor: pointer;
+}
+
+.links:hover {
+	color: red;
+	cursor: pointer;
+}
+
+img {
+	margin-bottom: 13px;
+	width: 50px;
+	height: 50px;
 }

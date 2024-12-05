@@ -1,22 +1,11 @@
 # Project Name
 
-Responsive Card layout using HTML & CSS 
+Responsive Card layout using HTML & CSS(Without Flexbox & Grid)
 
 ## Features
 
-- List key features of the project.
-- Highlight any unique functionalities.
-
-## Usage
-
-Provide examples or code snippets showing how to use the project.
+- Responsive Layout
 
 ## Technologies
 
-- Mention technologies, frameworks, or programming languages used.
-
-## Documentation
-
-For more information, check out our [documentation](link-to-docs).
-
-[![Build Status](badge-link)](build-status-link)
+- HTML & CSS
